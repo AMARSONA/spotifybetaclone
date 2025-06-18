@@ -1,0 +1,14 @@
+[
+  {
+    "folder": "bollywood",
+    "title": "Bollywood Hits",
+    "description": "Enjoy your favourite Bollywood songs from the 90s and 2000s",
+    "cover": "cover.jpg"
+  },
+  {
+    "folder": "southcinema",
+    "title": "South Cinema Hits",
+    "description": "Enjoy your favourite South Indian songs from the best movies of the 90s and 2000s.",
+    "cover": "cover.jpg"
+  }
+]
